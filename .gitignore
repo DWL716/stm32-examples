@@ -1,0 +1,9 @@
+logs
+*.log
+.vscode
+**/Objects/*
+**/Output/*
+!**/Objects/.sct
+
+.vscode/*
+!.vscode/extensions.json
